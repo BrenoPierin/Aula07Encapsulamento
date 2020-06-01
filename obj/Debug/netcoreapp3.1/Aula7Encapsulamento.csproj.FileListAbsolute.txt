@@ -1,0 +1,13 @@
+C:\Breno USA\Senai\Aula7Encapsulamento\bin\Debug\netcoreapp3.1\Aula7Encapsulamento.exe
+C:\Breno USA\Senai\Aula7Encapsulamento\bin\Debug\netcoreapp3.1\Aula7Encapsulamento.deps.json
+C:\Breno USA\Senai\Aula7Encapsulamento\bin\Debug\netcoreapp3.1\Aula7Encapsulamento.runtimeconfig.json
+C:\Breno USA\Senai\Aula7Encapsulamento\bin\Debug\netcoreapp3.1\Aula7Encapsulamento.runtimeconfig.dev.json
+C:\Breno USA\Senai\Aula7Encapsulamento\bin\Debug\netcoreapp3.1\Aula7Encapsulamento.dll
+C:\Breno USA\Senai\Aula7Encapsulamento\bin\Debug\netcoreapp3.1\Aula7Encapsulamento.pdb
+C:\Breno USA\Senai\Aula7Encapsulamento\obj\Debug\netcoreapp3.1\Aula7Encapsulamento.csprojAssemblyReference.cache
+C:\Breno USA\Senai\Aula7Encapsulamento\obj\Debug\netcoreapp3.1\Aula7Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Breno USA\Senai\Aula7Encapsulamento\obj\Debug\netcoreapp3.1\Aula7Encapsulamento.AssemblyInfoInputs.cache
+C:\Breno USA\Senai\Aula7Encapsulamento\obj\Debug\netcoreapp3.1\Aula7Encapsulamento.AssemblyInfo.cs
+C:\Breno USA\Senai\Aula7Encapsulamento\obj\Debug\netcoreapp3.1\Aula7Encapsulamento.dll
+C:\Breno USA\Senai\Aula7Encapsulamento\obj\Debug\netcoreapp3.1\Aula7Encapsulamento.pdb
+C:\Breno USA\Senai\Aula7Encapsulamento\obj\Debug\netcoreapp3.1\Aula7Encapsulamento.genruntimeconfig.cache
